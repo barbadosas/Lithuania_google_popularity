@@ -1,0 +1,60 @@
+Pakruojo rajonas,2340000
+Joniškio rajonas,2520000
+Telšių rajonas,3780000
+Birštono savivaldybė,2220000
+Kupiškio rajonas,2330000
+Radviliškio rajonas,3560000
+Kazlų Rūdos savivaldybė,2950000
+Pagėgių savivaldybė,1210000
+Molėtų rajonas,2170000
+Anykščių rajonas,3130000
+Klaipėdos m. savivaldybė,21500000
+Šalčininkų rajonas,2270000
+Širvintų rajonas,2030000
+Trakų rajonas,4450000
+Palangos miesto savivaldybė,7780000
+Kretingos rajono savivaldybė,10900000
+Ukmergės rajonas,3090000
+Panevėžio rajonas,8060000
+Kauno miesto savivaldybė,46600000
+Druskininkų savivaldybė,4020000
+Varėnos rajonas,2520000
+Neringos savivaldybė,4090000
+Lazdijų rajonas,2240000
+Alytaus rajonas,5030000
+Alytaus m. savivaldybė,8090000
+Rokiškio rajonas,2340000
+Biržų rajonas,2650000
+Rietavo rajonas,2020000
+Pasvalio rajonas,2730000
+Šilutės rajonas,4350000
+Skuodo rajonas,2410000
+Klaipėdos rajonas,6950000
+Mažeikių rajonas,4180000
+Šiaulių rajonas,4350000
+Akmenės rajonas,1940000
+Kelmės rajonas,2310000
+Prienų rajonas,2350000
+Plungės rajonas,2960000
+Jonavos rajonas,12600000
+Raseinių rajonas,3510000
+Tauragės rajonas,5410000
+Kaišiadorių rajonas,2650000
+Šilalės rajonas,2430000
+Kėdainių rajonas,4500000
+Jurbarko rajonas,2270000
+Visagino m. savivaldybė,6610000
+Ignalinos rajonas,2680000
+Zarasų rajonas,2470000
+Vilkaviškio rajonas,2480000
+Šakių rajonas,2090000
+Utenos rajonas,13700000
+Švenčionių rajonas,1220000
+Šiaulių m. savivaldybė,23800000
+Panevėžio m. savivaldybė,13900000
+Elektrėnų savivaldybė,2450000
+Vilniaus m. savivaldybė,93200000
+Marijampolės savivaldybė,6090000
+Kalvarijos savivaldybė,3000000
+Kauno rajono savivaldybė,7780000
+Vilniaus rajonas,3780000
